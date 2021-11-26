@@ -1,0 +1,2 @@
+# minesweeper-qa-cypress
+test
